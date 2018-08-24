@@ -1,0 +1,6 @@
+# Development style guides for Chumbok projects
+
+Follow a common style in our code owned by Chumbok.
+
+We actually follow guideline followed in Google. Here is the original file - https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml[Eclipse], https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml[IntelliJ].
+
