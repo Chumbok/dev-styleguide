@@ -1,2 +1,1 @@
-# dev-styleguide
-Development style guides for Chumbok projects
+# Development style guides for Chumbok projects
